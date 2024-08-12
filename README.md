@@ -1,7 +1,7 @@
-# Assenbly experiments
+# Assembly experiments
 
 ## Description
-In this repo I have some assembly experiments I did following the Daedalus Community's "Makeing an OS (x86)" cours from Youtube.
+In this repo I have some assembly experiments I did following the [Daedalus Community's "Making an OS (x86)" course from Youtube](https://www.youtube.com/playlist?list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M).
 
 Each ASM file is a different experiment.
 
